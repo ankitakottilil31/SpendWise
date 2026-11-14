@@ -1,4 +1,4 @@
-# 💸 SpendWise — Expense Tracker
+#  SpendWise — Expense Tracker
 
 SpendWise is a desktop expense tracker built for a university Python project. It uses a tkinter interface, ttkbootstrap themes, a single embedded Matplotlib donut chart, and a local SQLite database. It opens with 40 example transactions so the dashboard can be demonstrated immediately.
 
